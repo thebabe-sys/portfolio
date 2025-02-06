@@ -1,9 +1,9 @@
-import project1_img from '../assets/Screenshot_1.png'
-import project2_img from '../assets/screenshot_2.png'
-import project3_img from '../assets/screenshot_3.png'
-import project4_img from '../assets/screenshot_4.png'
-import project5_img from '../assets/screenshot_5.png'
-import project6_img from '../assets/screenshot_6.png'
+import project1_img from '../assets/Screenshot_1.png';
+import project2_img from '../assets/screenshot_2.png';
+import project3_img from '../assets/screenshot_3.png';
+import project4_img from '../assets/screenshot_4.png';
+import project5_img from '../assets/screenshot_5.png';
+import project6_img from '../assets/screenshot_6.png';
 
 const mywork_data = [
     {
