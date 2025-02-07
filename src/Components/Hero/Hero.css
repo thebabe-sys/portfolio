@@ -58,6 +58,13 @@
     border: 2px solid #fff;
     cursor: pointer;
 }
+.hero-resume a{
+    text-decoration: none;
+    color: #fff;
+}
+.hero-resume a:hover{
+    color: #ccc;
+}
 .hero-connect:hover{
     border: 2px solid white;
 }
